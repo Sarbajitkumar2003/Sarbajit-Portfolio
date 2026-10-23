@@ -1187,7 +1187,6 @@ button {
   font: 600 1.15rem 'Space Grotesk', sans-serif;
   margin-bottom: 12px;
 }
-
 .project-btn {
   display: inline-block;
   margin-bottom: 14px;
@@ -1201,7 +1200,6 @@ button {
   cursor: pointer;
   transition: all 0.3s ease;
 }
-
 .project-btn:hover {
   background: #00f5ff;
   color: #050505;
