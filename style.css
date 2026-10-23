@@ -1188,26 +1188,6 @@ button {
   margin-bottom: 12px;
 }
 
-.project-btn {
-  display: inline-block;
-  margin-bottom: 14px;
-  padding: 10px 22px;
-  background: transparent;
-  color: #00f5ff;
-  border: 1px solid #00f5ff;
-  border-radius: 8px;
-  font-size: 14px;
-  font-weight: 600;
-  cursor: pointer;
-  transition: all 0.3s ease;
-}
-
-.project-btn:hover {
-  background: #00f5ff;
-  color: #050505;
-  box-shadow: 0 0 18px rgba(0, 245, 255, 0.6);
-  transform: translateY(-3px);
-}
 
 .project-label {
   display: inline-block;
