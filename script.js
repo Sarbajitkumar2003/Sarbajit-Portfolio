@@ -165,7 +165,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const messageInput = document.getElementById("contactMessage");
 
     // Your email address
-    const recipient = "sarbajitsahoo24983@gmail.com";
+    const recipient = "sarbajitkumar.official@gmail.com";
 
     form.addEventListener("submit", event => {
       event.preventDefault();
@@ -381,3 +381,4 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
